@@ -73,24 +73,7 @@ To extend the application:
 - Create new GUI components in `views.py`
 - Update the main window to include new features
 
-## Team Contributions
-- **Mohamed**
-  - Developed the complete GUI from start to finish
-  - Integrated and collected code from all team members
-  - Managed the overall project structure and implementation
-- **Nadine**
-  - Implemented Round Robin (RR) algorithm
-  - Implemented Preemptive Shortest Remaining Time First (SRTF) algorithm
-- **Melissia**
-  - Implemented Non-preemptive Priority Scheduling algorithm
-- **Abdelrahman**
-  - Implemented First Come First Serve (FCFS) algorithm
-
 ## Requirements
 - Python 3.6+
 - numpy
 - matplotlib
-
-## License
-
-[Your chosen license] 
