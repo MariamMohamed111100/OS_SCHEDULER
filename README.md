@@ -43,7 +43,6 @@ OS_SCHEDULER/
 ### utils.py
 - Helper functions for process generation and metrics calculation
 - `generate_random_processes()`: Creates random processes for testing
-- `calculate_metrics()`: Computes average turnaround and waiting times
 
 ## How to Use
 
